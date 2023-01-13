@@ -1,14 +1,13 @@
-# Hi everybody, my name is Aleksandr Potapeiko 👋
-
-:##I'm Data Analyst:
+<p align="center">
+# Hi everybody, my name is Aleksandr Potapeiko, and i'm Data Analyst
+## clap clap clap 👋👋👋
+</p>
 
 My stack
 ## bottom you can look at my projects i did
 
 
-<p align="center">
-// Your content
-</p>
+
 
 
 <!--
