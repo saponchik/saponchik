@@ -1,5 +1,9 @@
-# Hi everybody, i'm Aleksandr Potapeiko 👋
-<span style="color: green"> Some green text </span>
+:# Hi everybody, my name is Aleksandr Potapeiko 👋:
+
+:##I'm Data Analyst:
+
+My stack
+## bottom you can look at my projects i did
 
 
 <!--
