@@ -1,4 +1,4 @@
-:# Hi everybody, my name is Aleksandr Potapeiko 👋:
+# :Hi everybody, my name is Aleksandr Potapeiko 👋:
 
 :##I'm Data Analyst:
 
