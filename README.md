@@ -1,15 +1,14 @@
-<p align="center">
-  
-//#Hi everybody, my name is Aleksandr Potapeiko, and i'm Data Analyst
-//##clap clap clap 👋👋👋
-</p>
-
-My stack
-## bottom you can look at my projects i did
-
-<p align="center">
-#Your content
-</p>
+# Hi everybody, my name is Aleksandr Potapeiko, and i'm Data Analyst
+### clap clap clap 👋👋👋
+#
+### My stack:
+#####   -PostgreeSQL, Clickhouse
+#####   -Python, Pandas, Numpy, SciPy, Penguin, Matplotlib, Seaborn, Plotly
+#####   -Redash, Tableau, PowerBI
+#####   -Airflow, GitLab 
+#####   -API: VK, Telegram, Google, Я.Метрика
+#
+### Below you can find some of the projects I have done
 
 
 
