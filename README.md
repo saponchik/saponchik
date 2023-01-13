@@ -5,8 +5,8 @@
 #####   -PostgreeSQL, Clickhouse
 #####   -Python, Pandas, Numpy, SciPy, Penguin, Matplotlib, Seaborn, Plotly
 #####   -Redash, Tableau, PowerBI
-#####   -Airflow, GitLab 
 #####   -API: VK, Telegram, Google, Я.Метрика
+#####   -Airflow 
 #
 ### Below you can find some of the projects I have done
 
