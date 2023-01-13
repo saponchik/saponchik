@@ -1,9 +1,14 @@
-# :Hi everybody, my name is Aleksandr Potapeiko 👋:
+# Hi everybody, my name is Aleksandr Potapeiko 👋
 
 :##I'm Data Analyst:
 
 My stack
 ## bottom you can look at my projects i did
+
+
+<p align="center">
+// Your content
+</p>
 
 
 <!--
